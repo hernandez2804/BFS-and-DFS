@@ -1,3 +1,5 @@
+Tugas 2 Irfan Hernandez Panjaitan
+
 # Artificial-Intelligence
 Kecerdasan Buatan
 
@@ -6,3 +8,6 @@ Kecerdasan Buatan
 
   Sedangkan  Depth First Search (DFS) adalah salah satu algoritma penelusuran struktur graf / pohon berdasarkan kedalaman. Node ditelusuri dari root kemudian ke salah satu node anaknya ( misalnya prioritas penelusuran berdasarkan anak pertama [Node sebelah kiri] ), maka penelusuran dilakukan terus melalui node anak pertama dari node anak pertama level sebelumnya hingga mencapai level terdalam. 
   Setelah sampai di level terdalam, penelusuran akan kembali ke 1 level sebelumnya untuk menelusuri node anak kedua pada pohon biner [node sebelah kanan] lalu kembali ke langkah sebelumnya dengan menelusuri node anak pertama lagi sampai level terdalam dan seterusnya.
+  
+  
+ 
